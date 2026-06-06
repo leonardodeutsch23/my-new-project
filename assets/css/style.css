@@ -3,8 +3,9 @@
     background-image: url(../images/01-02-02_background-img.jpg)
 } */
 body{
-    background-color: #ea0f0f;
     background-image: url(/assets/images/01-02-02_background-img.jpg)
+    background-color: #ea0f0f;
+    
     
 }
 .container{
