@@ -1,0 +1,16 @@
+/* body{
+    background-color: #ea0f0f;
+    background-image: url(../images/01-02-02_background-img.jpg)
+} */
+body{
+    background-color: #ea0f0f;
+    background-image: url(/assets/images/01-02-02_background-img.jpg)
+    
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}                    
